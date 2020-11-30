@@ -1,4 +1,4 @@
 baseURL = "https://086666.xyz/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Site"
 theme = "ananke"
