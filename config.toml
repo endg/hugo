@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Paris"
+baseURL = "https://086666.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "../.."
